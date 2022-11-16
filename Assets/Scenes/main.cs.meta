@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1c493d299c7577c4eac728064403d08b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftup: {instanceID: 0}
+  - rightup: {instanceID: 0}
+  - leftdown: {instanceID: 0}
+  - rightdown: {instanceID: 0}
+  - maincam: {instanceID: 0}
+  - wChess: {fileID: 2800000, guid: 9e00352f785e9544b81a70a9dcfa857b, type: 3}
+  - bChess: {fileID: 2800000, guid: de2a30a92f56c144894268b35bad3e5f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
